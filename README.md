@@ -1,10 +1,5 @@
 # Geometría Diferencial — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Gabriel Minian
-- **Clases prácticas:** Manuela Cerdeiro, Marcos Cossarini
-
 ## Prácticas
 
 - [Ejercicio](ejercicio1305.pdf)
@@ -17,14 +12,6 @@
 - [practica7gd13](practica7gd13.pdf)
 - [practica8gd13](practica8gd13.pdf)
 - [practica9gd13](practica9gd13.pdf)
-
-## Bibliografía
-
-- Home » Enseñanza » Materias » Primer Cuatrimestre 2013 » Geometría Diferencial » Geometría Diferencial - programa y bibliografía
-- An introduction to differentiable manifolds and riemannian geometry . W. Boothby.
-- Foundations of differentiable manifolds and Lie groups . F. Warner.
-- Geometría Riemanniana . M. P. do Carmo.
-- Curso de Análise 2 . E. Lages Lima.
 
 ## Página original
 
